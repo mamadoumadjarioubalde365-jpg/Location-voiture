@@ -67,15 +67,15 @@ menu a:hover{
 .menu a:hover{
     text-decoration: underline;
 }
-.hero{
-    background-image: url(../MEDIA/Voiture.jpeg) center/cover;
-
+.car{
+    background-image: url(../MEDIA/Voiture.jpeg); background-size: cover; 
     padding: 200px 100px;
     font-size: 50px;
     color: white;
     text-align: center;
     
 }
+
 button{
 
     padding: 30px 20px;
