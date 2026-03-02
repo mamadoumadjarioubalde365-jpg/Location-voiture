@@ -68,7 +68,8 @@ menu a:hover{
     text-decoration: underline;
 }
 .hero{
-    background: url("/MEDIA/Voiture\ .jpeg") center/cover;
+    background-image: url(../MEDIA/Voiture.jpeg) center/cover;
+
     padding: 200px 100px;
     font-size: 50px;
     color: white;
